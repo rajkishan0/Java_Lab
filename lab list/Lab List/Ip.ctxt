@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Ip
+comment1.params=a\ b
+comment1.target=void\ add(double,\ double)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=void\ sub(double,\ double)
+comment3.params=a\ b
+comment3.target=void\ mul(double,\ double)
+comment4.params=a\ b
+comment4.target=void\ divi(double,\ double)
+comment5.params=a\ b
+comment5.target=void\ add(double,\ double)
+comment6.params=a\ b
+comment6.target=void\ sub(double,\ double)
+comment7.params=a\ b
+comment7.target=void\ mul(double,\ double)
+comment8.params=a\ b
+comment8.target=void\ divi(double,\ double)
+comment9.params=
+comment9.target=void\ display()
+numComments=11

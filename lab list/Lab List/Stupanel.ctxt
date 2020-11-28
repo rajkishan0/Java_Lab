@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Stupanel
+comment0.text=\ <applet\ code\="Stupanel"\ width\=400\ height\=400>\n</applet>
+comment1.params=
+comment1.target=void\ init()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=e\ o
+comment3.target=boolean\ action(java.awt.Event,\ java.lang.Object)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+numComments=6
